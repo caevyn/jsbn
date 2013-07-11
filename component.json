@@ -9,7 +9,7 @@
   "dependencies": {},
   "development": {},
   "license": "BSD",
-  "main":"jsbn.js"
+  "main":"jsbn.js",
   "scripts": [
     "jsbn.js"
   ]
